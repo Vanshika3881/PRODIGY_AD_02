@@ -1,0 +1,13 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+<!--  <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">-->
+<!--        &lt;!&ndash; Customize your light theme here. &ndash;&gt;-->
+<!--        &lt;!&ndash; <item name="colorPrimary">@color/my_light_primary</item> &ndash;&gt;-->
+<!--    </style>-->
+
+    <style name="Theme.ToDoList" parent="Base.Theme.ToDoList" />
+
+    <style name="AlertDialogButton">
+        <item name="android:textColor">@color/black</item> <!-- White text color -->
+    </style>
+</resources>

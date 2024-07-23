@@ -1,0 +1,16 @@
+<resources>
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">#dbaaee</item>
+        <item name="colorPrimaryDark">#dbaaee</item>
+        <item name="colorAccent">@color/white</item>
+
+    </style>
+
+
+    <style name="DialogStyle" parent="Theme.Design.Light.BottomSheetDialog">
+
+        <item name="android:windowIsFloating">false</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:windowSoftInputMode">adjustResize</item>
+    </style>
+</resources>
